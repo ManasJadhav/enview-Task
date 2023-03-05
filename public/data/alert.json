@@ -1,0 +1,44 @@
+[
+    {
+      "id": "6049dbd2-45bc-4e34-9ea2-c82ced0279f1",
+      "alert_type": "Unsafe driving",
+      "vehicle_id": "cc70a7e5-8397-4914-bbbb-4d6bb521ec67",
+      "driver_friendly_name": "Ramesh",
+      "vehicle_friendly_name": "KA12A3456",
+      "timestamp": "2023-03-01T04:25:45.424Z",
+      "false_alarm" : "true"
+    },
+    {
+      "id": "5149dbd2-45bc-4e34-9ea2-c82ced0279f1",
+      "alert_type": "Distracted driver",
+      "vehicle_id": "dd70a7e5-8397-4914-bbbb-4d6bb521ec67",
+      "driver_friendly_name": "Suresh",
+      "vehicle_friendly_name": "MH12A3456",
+      "timestamp": "2023-02-10T04:24:45.424Z",
+      "false_alarm" : "true"
+    },
+    {
+      "id": "5149dbd2-45bc-4e34-9ea2-c82ced0279f1",
+      "alert_type": "drunk driver",
+      "vehicle_id": "dd70a7e5-8397-4914-bbbb-4d6bb521ec67",
+      "driver_friendly_name": "Unmesh",
+      "vehicle_friendly_name": "KA13B6543",
+      "timestamp": "2023-03-01T04:24:45.424Z",
+      "false_alarm" : "true"
+    },{
+      "id": "5149dbd2-45bc-4e34-9ea2-c82ced02123",
+      "alert_type": "underAge driver",
+      "vehicle_id": "dd70a7e5-8397-4914-bbbb-4d6bb521ye33",
+      "driver_friendly_name": "Suyog",
+      "vehicle_friendly_name": "LM12R3096",
+      "timestamp": "2023-03-01T04:24:45.424Z","false_alarm" : "true"
+    },
+    {
+      "id": "5149dbd2-45bc-4e34-9ea2-c82ced0edd2",
+      "alert_type": "Unsafe driving",
+      "vehicle_id": "dd70a7e5-8397-4914-bbbb-4d6bb521hh21",
+      "driver_friendly_name": "Manas",
+      "vehicle_friendly_name": "JM12A1234",
+      "timestamp": "2023-03-01T04:24:45.424Z","false_alarm" : "true"
+    }
+  ]
